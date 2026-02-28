@@ -1,0 +1,9 @@
+{
+  "name": "DealFinder AI",
+  "description": "Chiến lược gia mua sắm thông minh tại thị trường Việt Nam. Phân tích giá, độ uy tín và rủi ro sản phẩm.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
